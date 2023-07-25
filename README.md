@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-US" class="hide-scroll">
 <head> 
+    <meta name="google-site-verification" content="d8tq9GwlQ-zNvzXfCv1QAvrRB2_cHbcjJhSZzdcwdaQ" />
     <title>Solar energy company HTML Template Live Demo</title>
     <meta name="Keywords">
     <meta name="Description">
